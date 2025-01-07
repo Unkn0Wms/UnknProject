@@ -26,15 +26,15 @@ fn default_favorites_color() -> egui::Color32 {
 }
 
 pub(crate) fn default_api_endpoint() -> String {
-    "https://raw.githubusercontent.com/Unkn0Wms/AnarchoLoader/refs/heads/main/hacklist.html".to_string()
+    "https://raw.githubusercontent.com/Unkn0Wms/UnknProject/refs/heads/main/resources/Hacklist.html".to_string()
 }
 
 pub(crate) fn default_cdn_endpoint() -> String {
-    "https://raw.githubusercontent.com/Unkn0Wms/AnarchoLoader/refs/heads/main/hacks/".to_string()
+    "https://raw.githubusercontent.com/Unkn0Wms/UnknProject/refs/heads/main/resources/hacks/".to_string()
 }
 
 pub(crate) fn default_cdn_fallback_endpoint() -> String {
-    "https://raw.githubusercontent.com/Unkn0Wms/AnarchoLoader/refs/heads/main/hacks/".to_string()
+    "https://raw.githubusercontent.com/Unkn0Wms/UnknProject/refs/heads/main/resources/hacks/".to_string()
 }
 
 pub(crate) fn default_log_level() -> log::Level {
