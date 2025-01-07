@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/da62d58f-d664-4ce5-8932-db1e04d572c3" width="150"></img>
+   <img src="https://github.com/Unkn0Wms/UnknProject/blob/main/website/static/assets/logo.png" width="150"></img>
    <h1>unknproject</h1>
    unknproject is a simple loader for Counter-Strike game series using the egui library, written entirely in Rust.
 </div>
