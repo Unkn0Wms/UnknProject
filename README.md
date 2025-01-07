@@ -7,7 +7,7 @@
 ## Showcase
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/4e04ab51-352d-45a1-aa75-fd305d4f28bb" width=500>
+    <img src="https://github.com/Unkn0Wms/UnknProject/blob/main/website/discord/E50C39DF-1F68-4B01-A5A1-80ED77E754CF.png" width=500>
 </div>
 
 ## Installation
